@@ -25,9 +25,6 @@ It uses:
 
 ---
 
---- make sure that python virtual envirornment is running before executing the project
---- conda activate <name>
-
 ## 🔧 Installation
 
 1. Clone this repo (or copy files into a project folder).
