@@ -32,6 +32,6 @@ It uses:
 3. pip install -r requirements.txt
 
 ## 🏎️ execution
-1. ollama run <model>
+1. ollama run model
 2. python store_index.py
 3. python app.py
